@@ -1,0 +1,15 @@
+C:\Users\kikre\OneDrive\Рабочий стол\clown\massivi dlya debilov\massivi dlya debilov\bin\Debug\net6.0\massivi dlya debilov.exe
+C:\Users\kikre\OneDrive\Рабочий стол\clown\massivi dlya debilov\massivi dlya debilov\bin\Debug\net6.0\massivi dlya debilov.deps.json
+C:\Users\kikre\OneDrive\Рабочий стол\clown\massivi dlya debilov\massivi dlya debilov\bin\Debug\net6.0\massivi dlya debilov.runtimeconfig.json
+C:\Users\kikre\OneDrive\Рабочий стол\clown\massivi dlya debilov\massivi dlya debilov\bin\Debug\net6.0\massivi dlya debilov.dll
+C:\Users\kikre\OneDrive\Рабочий стол\clown\massivi dlya debilov\massivi dlya debilov\bin\Debug\net6.0\massivi dlya debilov.pdb
+C:\Users\kikre\OneDrive\Рабочий стол\clown\massivi dlya debilov\massivi dlya debilov\obj\Debug\net6.0\massivi dlya debilov.csproj.AssemblyReference.cache
+C:\Users\kikre\OneDrive\Рабочий стол\clown\massivi dlya debilov\massivi dlya debilov\obj\Debug\net6.0\massivi dlya debilov.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kikre\OneDrive\Рабочий стол\clown\massivi dlya debilov\massivi dlya debilov\obj\Debug\net6.0\massivi dlya debilov.AssemblyInfoInputs.cache
+C:\Users\kikre\OneDrive\Рабочий стол\clown\massivi dlya debilov\massivi dlya debilov\obj\Debug\net6.0\massivi dlya debilov.AssemblyInfo.cs
+C:\Users\kikre\OneDrive\Рабочий стол\clown\massivi dlya debilov\massivi dlya debilov\obj\Debug\net6.0\massivi dlya debilov.csproj.CoreCompileInputs.cache
+C:\Users\kikre\OneDrive\Рабочий стол\clown\massivi dlya debilov\massivi dlya debilov\obj\Debug\net6.0\massivi dlya debilov.dll
+C:\Users\kikre\OneDrive\Рабочий стол\clown\massivi dlya debilov\massivi dlya debilov\obj\Debug\net6.0\refint\massivi dlya debilov.dll
+C:\Users\kikre\OneDrive\Рабочий стол\clown\massivi dlya debilov\massivi dlya debilov\obj\Debug\net6.0\massivi dlya debilov.pdb
+C:\Users\kikre\OneDrive\Рабочий стол\clown\massivi dlya debilov\massivi dlya debilov\obj\Debug\net6.0\massivi dlya debilov.genruntimeconfig.cache
+C:\Users\kikre\OneDrive\Рабочий стол\clown\massivi dlya debilov\massivi dlya debilov\obj\Debug\net6.0\ref\massivi dlya debilov.dll
